@@ -23,7 +23,7 @@ The source code can be found under “CSCI6515_A2_B00716724” from the attachme
 Configure Spark cluster on Amazon AWS :
 Please follow the steps shared by TA. Please also execute those three commands which copy maildir dataset on AWS hadoop file system.
 
-After this, please create one folder on AWS called ‘source_code’. It would be /home/hadoop/source_code. Copy  all the files from this link or attached folder CSCI6515_A2_B00716724/Source_code/ to the /home/hadoop/source_code folder. Now Go to this source_code folder using below commands.
+After this, please create one folder on AWS called ‘source_code’. It would be /home/hadoop/source_code. Copy  all the files from this link or attached folder Source_code/ to the /home/hadoop/source_code folder. Now Go to this source_code folder using below commands.
 
 cd /home/hadoop/source_code
 
