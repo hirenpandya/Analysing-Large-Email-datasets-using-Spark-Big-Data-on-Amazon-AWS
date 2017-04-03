@@ -15,10 +15,12 @@ Third party modules:
 1. nltk
 2. bs4
 3. sh
-4. sklearn
+4. sklear-
 
-
-The source code can be found under “CSCI6515_A2_B00716724” from the attachment. 
+1. preprocessingDataDiscovery.py (For Data preprocessing and data discovery and graph representation)
+2. bag_of_words.py (for creating bag of words over all emails which will be input for LDA and Kmeans)
+3. Kmeans.py  (for running K-means algorithm)
+4. LDA.py (for running LDA algorithm)
 
 Configure Spark cluster on Amazon AWS :
 Please follow the steps shared by TA. Please also execute those three commands which copy maildir dataset on AWS hadoop file system.
