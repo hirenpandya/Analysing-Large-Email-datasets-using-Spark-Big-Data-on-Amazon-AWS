@@ -17,6 +17,8 @@ Third party modules:
 3. sh
 4. sklear-
 
+The description of each script is as follow :
+
 1. preprocessingDataDiscovery.py (For Data preprocessing and data discovery and graph representation)
 2. bag_of_words.py (for creating bag of words over all emails which will be input for LDA and Kmeans)
 3. Kmeans.py  (for running K-means algorithm)
